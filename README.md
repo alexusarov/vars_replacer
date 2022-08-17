@@ -6,7 +6,7 @@ This script might be useful to dynamically modify YAML manifests for kubernetes.
 
 ## Installation
 ```
-git clone https://git.infinidat.com/ausarov/vars_replacer.git
+git https://github.com/alexusarov/vars_replacer.git
 cd vars_replacer
 ```
 

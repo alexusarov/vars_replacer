@@ -13,7 +13,7 @@ cd vars_replacer
 ## Description
 
 ```
-Syntax: ./vars_replacer.sh [-h] [-d] [-q] -i [input_file] -o [output_file] -p [key=value] [key=value]
+Syntax: ./vars_replacer.sh [-h] [-d] [-q] -i [input_file] -o [output_file] -p "[key=value] [key=value]"
 options:
 -h               Print this Help.
 -q               Silent mode - nothing will be printed
